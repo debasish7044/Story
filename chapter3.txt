@@ -1,1 +1,1 @@
-this is my chapter 3. git commit
+working on git terminal is very simple and easy
